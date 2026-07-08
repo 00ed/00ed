@@ -2,14 +2,11 @@
 <h3 align="center">AI/ML Engineer | Deep Learning · Computer Vision · NLP · Brain-Computer Interfaces</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[TODO-your-linkedin-handle]" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/eyad-alatifi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:eyad.alatifi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="[TODO-portfolio-site-url-if-you-have-one]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -17,43 +14,31 @@
 
 ### 🧠 About Me
 
-- 🎓 Bachelor's in Artificial Intelligence, **Umm Al-Qura University** (2022–2026) — GPA 3.74/4.0
-- 🔭 Currently building **[TODO: mention VisionGuard here if it's your current active project — not in the CV yet]**
-- 🧬 Deeply interested in **Brain-Computer Interfaces**, **Computer Vision**, and applied **Deep Learning**
-- 🏆 Built **SilentReading**, an EEG-to-Text BCI system for individuals with speech impairments, supervised by Dr. Hassan Alhuzali
-- 💼 AI Intern @ **Deep Scan Technologies**, building conversational AI agents (Nabrah)
-- 📜 Completed the **KAUST Academy** Artificial Intelligence Training Program (40 hrs, Deep Learning & CV)
-- 🌍 Based in Makkah, Saudi Arabia
-- 💬 Ask me about EEG signal processing, transformer fine-tuning, or video anomaly detection
-- ⚡ Fun fact: **[TODO — add something personal/fun about yourself, e.g. a hobby, a favorite tech topic, or what got you into AI]**
-
+- 🎓 Bachelor's in Artificial Intelligence
+- 🧬 Deeply interested in **Natural Language Processing (NLP)**, **Computer Vision**, and applied **Deep Learning**
 ---
 
 ### 🚀 Featured Projects
 
-#### 🧠 [SilentReading — EEG-to-Text Brain-Computer Interface](https://github.com/00ed/[TODO-repo-name])
+#### 🧠 [SilentReading — EEG-to-Text Brain-Computer Interface](https://github.com/yasser-alharbi/SilentReading)
 Assistive BCI system decoding EEG signals into text and speech for individuals with speech impairments.
 - Multi-stage pipeline: signal preprocessing → feature extraction → sequence encoding → context modeling → language refinement → TTS
 - Two-stage text enhancement (rule-based + GPT-4o-mini)
 - **BLEU-4: 36.64% | ROUGE-1 F1: 52.76% | BERTScore F1: 90.52%** on 2,404 test samples
 - `PyTorch` `BART-large` `FastAPI` `React/Vite` `MongoDB`
 
-#### 🎥 [VisionGuard — Two-Stage Video Anomaly Detection](https://github.com/00ed/[TODO-repo-name])
-> ⚠️ Not yet on your CV — add this project's dates/description if you want it listed formally.
+#### 🎥 [VisionGuard — Two-Stage Video Anomaly Detection](https://github.com/00ed/Crime-Vision)
 
 Surveillance video anomaly detection on the DCSASS dataset with a two-stage pipeline: X3D-S for binary anomaly gating and VideoMAE ViT-B for 13-class crime classification.
 - **99.16% weighted test accuracy**
 - Full-stack app: `FastAPI` + `React/Vite`, dark forensic amber theme
 - Solved real deployment challenges: Decord for H.264 decoding on Windows, PyTorch Nightly + CUDA 12.8 for RTX 5060 Ti (Blackwell sm_120), YAML config with Pydantic
 
-#### 🩺 [SHEFAA — Arabic Medical Question-Answering System](https://github.com/00ed/[TODO-repo-name])
+#### 🩺 [SHEFAA — Arabic Medical Question-Answering System](https://github.com/yasser-alharbi/SHEFAA)
 Fine-tuned **Jais-256m** via QLoRA on the AHQAD dataset for accurate Arabic medical Q&A.
 - Advanced Arabic text normalization, optimized memory usage
 - Evaluated on BLEU, ROUGE, and BERTScore
 - `QLoRA` `Jais-256m` `Transformers` `NLP`
-
-#### 🎙️ [Real-Time Voice Translation Web App]([TODO-repo-link])
-> ⚠️ Not on your CV — add if you'd like it featured (doctor–patient real-time translation, built with Whisper, GPT, ElevenLabs, Flask + React).
 
 ---
 
@@ -87,8 +72,6 @@ Fine-tuned **Jais-256m** via QLoRA on the AHQAD dataset for accurate Arabic medi
 ### 📫 Reach Me
 
 - 📧 **eyad.alatifi@gmail.com**
-- 💼 LinkedIn: **[TODO — add your LinkedIn URL]**
-- 🌐 Portfolio: **[TODO — add if you build one]**
-- 📱 Phone: not recommended for a public README — keep this on your CV/LinkedIn only
+- 💼 LinkedIn: **[Eyad Alatifi](www.linkedin.com/in/eyad-alatifi)**
 
 <p align="center"><i>Thanks for stopping by — always open to collaborating on AI, CV, and BCI projects!</i></p>
