@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Deep Learning · Computer Vision · NLP · Brain-Computer Interfaces</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/eyad-alatifi" target="_blank">
+  <a href="www.linkedin.com/in/eyad-alatifi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:eyad.alatifi@gmail.com">
@@ -56,18 +56,6 @@ Fine-tuned **Jais-256m** via QLoRA on the AHQAD dataset for accurate Arabic medi
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=00ed&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00ed&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=00ed&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 📫 Reach Me
 
